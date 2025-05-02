@@ -1,0 +1,1 @@
+After installation parse the information that's coming through the website
